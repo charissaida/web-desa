@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Potensi Desa &#8211; Desa Mendalanwangi</title>
+	<atom:link href="httpcharissaida.github.io/web-desa//category/potensi-desa/feed/" rel="self" type="application/rss+xml" />
+	<link>httpcharissaida.github.io/web-desa/</link>
+	<description></description>
+	<lastBuildDate>Sat, 22 Jul 2023 05:50:35 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Pertanian</title>
+		<link>httpcharissaida.github.io/web-desa//pertanian/</link>
+					<comments>httpcharissaida.github.io/web-desa//pertanian/#respond</comments>
+		
+		<dc:creator><![CDATA[admin-mendalan]]></dc:creator>
+		<pubDate>Sat, 22 Jul 2023 05:50:35 +0000</pubDate>
+				<category><![CDATA[Potensi Desa]]></category>
+		<guid isPermaLink="false">httpcharissaida.github.io/web-desa//?p=316</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat &#8230;<p class="read-more"> <a class="" href="httpcharissaida.github.io/web-desa//pertanian/"> <span class="screen-reader-text">Pertanian</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="httpcharissaida.github.io/web-desa//wp-content/uploads/2023/07/DSC_0158-1024x681.jpg" alt="" class="wp-image-296" srcset="httpcharissaida.github.io/web-desa//wp-content/uploads/2023/07/DSC_0158-1024x681.jpg 1024w, httpcharissaida.github.io/web-desa//wp-content/uploads/2023/07/DSC_0158-300x199.jpg 300w, httpcharissaida.github.io/web-desa//wp-content/uploads/2023/07/DSC_0158-768x511.jpg 768w, httpcharissaida.github.io/web-desa//wp-content/uploads/2023/07/DSC_0158-1536x1021.jpg 1536w, httpcharissaida.github.io/web-desa//wp-content/uploads/2023/07/DSC_0158-2048x1362.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>httpcharissaida.github.io/web-desa//pertanian/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
